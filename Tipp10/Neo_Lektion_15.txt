@@ -1,0 +1,16 @@
+r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r
+r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r
+r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r r,r
+r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n
+r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n r,n
+r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t
+r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t r,t
+r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d
+r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d r,d
+d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r
+d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r d,r
+t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r
+t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r t,r
+n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r
+n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r n,r
+// Jetzt kannst du einen Großteil der 1. Ebene
